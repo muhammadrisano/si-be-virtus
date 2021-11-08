@@ -15,3 +15,5 @@ yarn-error.log
 /.vscode
 .env-local
 .env-local-lagi
+.env-local-staging1
+.env-local-staging2
