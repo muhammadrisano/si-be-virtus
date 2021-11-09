@@ -13,3 +13,12 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
+.env-local
+.env-local-lagi
+
+.env-local-staging1
+.env-local-staging2
+.env-local-main1
+.env-local-main2
+.env-local-main3
+.env-local-staging7
